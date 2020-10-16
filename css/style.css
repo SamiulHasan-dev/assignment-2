@@ -1,0 +1,49 @@
+body{
+    margin: 0;
+    background: #e4efef00;
+}
+div{}
+.banner1{
+    width: 120px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.banner2{
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+.container1{}
+.container2{
+    width: 79px;
+    margin-left: 414px;
+    font-size: 18px;
+}
+.container3{
+    margin-left: 
+    auto;margin-right: 
+    auto;font-size: 10px;
+    width: 440px;}
+.container4{
+    width: 440px;
+    margin: auto;
+    text-align: center;
+    background: #29b329;
+    color: white;
+    padding: 9px;
+}
+h2{
+    width: 334px;
+    text-align: center;
+    font-size: 21px;
+    margin-left: auto;
+    margin-right: auto;
+}
+h5{
+        
+       
+}
+img{
+    max-width: 100%;
+}
